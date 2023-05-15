@@ -1,0 +1,8 @@
+Info,  T0: Load /home/base/Shared/VMSHARE/untitled.glb
+Info,  T0: Found a matching importer for this file format: glTF2 Importer.
+Info,  T0: Import root directory is '/home/base/Shared/VMSHARE/'
+Info,  T0: Entering post processing pipeline
+Info,  T0: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T0: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T0: Cache relevant are 1 meshes (16 faces). Average output ACMR is 1.875
+Info,  T0: Leaving post processing pipeline

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/rattrapage_opengl.dir/main.cpp.o -o rattrapage_opengl  -lGLEW -lglfw -lGL -lIL -lassimp -lglut -lGLU 

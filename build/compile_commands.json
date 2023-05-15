@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/base/Downloads/opengl_examples-master/sphere_light/build",
+  "command": "/usr/bin/g++  -I/home/base/Downloads/opengl_examples-master/sphere_light/include -g -o CMakeFiles/rattrapage_opengl.dir/main.cpp.o -c /home/base/Downloads/opengl_examples-master/sphere_light/main.cpp",
+  "file": "/home/base/Downloads/opengl_examples-master/sphere_light/main.cpp"
+}
+]
